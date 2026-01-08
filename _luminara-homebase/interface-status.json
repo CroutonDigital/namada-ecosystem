@@ -1,11 +1,11 @@
 {
-    "script_start_time": "2026-01-08T05:46:03.865378+00:00Z",
-    "script_end_time": "2026-01-08T05:55:43.574525+00:00Z",
+    "script_start_time": "2026-01-08T22:43:39.663627+00:00Z",
+    "script_end_time": "2026-01-08T22:52:37.897970+00:00Z",
     "latest_versions": {
         "interface": "n/a",
         "indexer": "n/a",
         "masp": "n/a",
-        "namada": "n/a"
+        "namada": "201.0.8"
     },
     "networks": [
         {
@@ -27,22 +27,22 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc.namada.net",
-                            "latest_block_height": "4963163",
+                            "latest_block_height": "4971838",
                             "status": "Healthy"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer.namada.net",
-                            "latest_block_height": "4963163",
+                            "latest_block_height": "4971838",
                             "status": "Healthy"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://masp.namada.net",
-                            "latest_block_height": "4963117",
-                            "status": "Healthy"
+                            "latest_block_height": "4971014",
+                            "status": "Down"
                         }
                     ]
                 },
@@ -62,22 +62,22 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc.namada.tududes.com:443",
-                            "latest_block_height": "4963164",
+                            "latest_block_height": "4971838",
                             "status": "Healthy"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer.namada.tududes.com:443",
-                            "latest_block_height": "4963163",
+                            "latest_block_height": "4971838",
                             "status": "Healthy"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://masp.namada.tududes.com:443",
-                            "latest_block_height": "4963117",
-                            "status": "Healthy"
+                            "latest_block_height": "4971014",
+                            "status": "Down"
                         }
                     ]
                 },
@@ -97,22 +97,22 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc-namada.5elementsnodes.com",
-                            "latest_block_height": "4963164",
+                            "latest_block_height": "4971839",
                             "status": "Healthy"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://index2-namada.5elementsnodes.com",
-                            "latest_block_height": "4963164",
+                            "latest_block_height": "4971838",
                             "status": "Healthy"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://masp2-namada.5elementsnodes.com",
-                            "latest_block_height": "4963117",
-                            "status": "Healthy"
+                            "latest_block_height": "4971014",
+                            "status": "Down"
                         }
                     ]
                 },
@@ -132,22 +132,22 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://namada-rpc.hadesguard.tech",
-                            "latest_block_height": "4963165",
+                            "latest_block_height": "4971839",
                             "status": "Healthy"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer.namada.tududes.com",
-                            "latest_block_height": "4963165",
+                            "latest_block_height": "4971839",
                             "status": "Healthy"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://masp.namada.tududes.com",
-                            "latest_block_height": "4963117",
-                            "status": "Healthy"
+                            "latest_block_height": "4971014",
+                            "status": "Down"
                         }
                     ]
                 },
@@ -215,22 +215,22 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://namada-mainnet-rpc.denodes.xyz",
-                            "latest_block_height": "4963172",
+                            "latest_block_height": "4971845",
                             "status": "Healthy"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://namada-indexer.denodes.xyz",
-                            "latest_block_height": "4963172",
+                            "latest_block_height": "4971845",
                             "status": "Healthy"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://namada-masp-indexer.denodes.xyz",
-                            "latest_block_height": "4963117",
-                            "status": "Healthy"
+                            "latest_block_height": "4971014",
+                            "status": "Down"
                         }
                     ]
                 },
@@ -263,22 +263,22 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc.namada.stakeup.tech",
-                            "latest_block_height": "4963175",
+                            "latest_block_height": "4971848",
                             "status": "Healthy"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer.namada.stakeup.tech",
-                            "latest_block_height": "4963174",
+                            "latest_block_height": "4971848",
                             "status": "Healthy"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://masp-indexer.namada.stakeup.tech",
-                            "latest_block_height": "4963117",
-                            "status": "Healthy"
+                            "latest_block_height": "4971014",
+                            "status": "Down"
                         }
                     ]
                 },
@@ -298,7 +298,7 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc.namada-archive.citizenweb3.com",
-                            "latest_block_height": "4963175",
+                            "latest_block_height": "4971848",
                             "status": "Healthy"
                         },
                         {
@@ -312,8 +312,8 @@
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://masp-indexer.namada.citizenweb3.com",
-                            "latest_block_height": "4963117",
-                            "status": "Healthy"
+                            "latest_block_height": "4971014",
+                            "status": "Down"
                         }
                     ]
                 },
@@ -333,7 +333,7 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://namada-rpc.stakeandrelax.net:443",
-                            "latest_block_height": "4963176",
+                            "latest_block_height": "4971849",
                             "status": "Healthy"
                         },
                         {
@@ -403,22 +403,22 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://namada-rpc.emberstake.xyz",
-                            "latest_block_height": "4963181",
+                            "latest_block_height": "4971853",
                             "status": "Healthy"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://namada-idx.emberstake.xyz",
-                            "latest_block_height": "4963180",
+                            "latest_block_height": "4971853",
                             "status": "Healthy"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://namada-masp-idx.emberstake.xyz",
-                            "latest_block_height": "4963117",
-                            "status": "Healthy"
+                            "latest_block_height": "4971014",
+                            "status": "Down"
                         }
                     ]
                 },
@@ -451,22 +451,22 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://namada-public-rpc.shield-crypto.com",
-                            "latest_block_height": "4963183",
+                            "latest_block_height": "4971855",
                             "status": "Healthy"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://namada-indexer.shield-crypto.com",
-                            "latest_block_height": "4963183",
+                            "latest_block_height": "4971855",
                             "status": "Healthy"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://namada-public-masp.shield-crypto.com",
-                            "latest_block_height": "4963117",
-                            "status": "Healthy"
+                            "latest_block_height": "4971014",
+                            "status": "Down"
                         }
                     ]
                 },
@@ -512,22 +512,22 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://namada-mainnet-rpc.itrocket.net:443",
-                            "latest_block_height": "4963189",
+                            "latest_block_height": "4971860",
                             "status": "Healthy"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer.namada.tududes.com:443",
-                            "latest_block_height": "4963189",
+                            "latest_block_height": "4971860",
                             "status": "Healthy"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://masp.namada.tududes.com:443",
-                            "latest_block_height": "4963117",
-                            "status": "Healthy"
+                            "latest_block_height": "4971014",
+                            "status": "Down"
                         }
                     ]
                 },
@@ -547,22 +547,22 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://lightnode-rpc-mainnet-namada.grandvalleys.com",
-                            "latest_block_height": "4963189",
+                            "latest_block_height": "4971860",
                             "status": "Healthy"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer-mainnet-namada.grandvalleys.com",
-                            "latest_block_height": "4963189",
+                            "latest_block_height": "4971860",
                             "status": "Healthy"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://masp-indexer-mainnet-namada.grandvalleys.com",
-                            "latest_block_height": "4963117",
-                            "status": "Healthy"
+                            "latest_block_height": "4971014",
+                            "status": "Down"
                         }
                     ]
                 },
@@ -595,22 +595,22 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://namada-mainnet-rpc.itrocket.net:443",
-                            "latest_block_height": "4963191",
+                            "latest_block_height": "4971862",
                             "status": "Healthy"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://namada-mainnet-indexer.itrocket.net:443",
-                            "latest_block_height": "4963191",
+                            "latest_block_height": "4971862",
                             "status": "Healthy"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://namada-masp-indexer.itrocket.net:443",
-                            "latest_block_height": "4963117",
-                            "status": "Healthy"
+                            "latest_block_height": "4971014",
+                            "status": "Down"
                         }
                     ]
                 },
@@ -643,22 +643,22 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://namada-rpc.emberstake.xyz",
-                            "latest_block_height": "4963194",
+                            "latest_block_height": "4971865",
                             "status": "Healthy"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://namada-idx.emberstake.xyz",
-                            "latest_block_height": "4963194",
+                            "latest_block_height": "4971865",
                             "status": "Healthy"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://namada-masp-idx.emberstake.xyz",
-                            "latest_block_height": "4963117",
-                            "status": "Healthy"
+                            "latest_block_height": "4971014",
+                            "status": "Down"
                         }
                     ]
                 },
@@ -704,22 +704,22 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc.papadritta.com",
-                            "latest_block_height": "4963200",
+                            "latest_block_height": "4971871",
                             "status": "Healthy"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer.papadritta.com",
-                            "latest_block_height": "4963200",
+                            "latest_block_height": "4971871",
                             "status": "Healthy"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://masp-indexer.papadritta.com",
-                            "latest_block_height": "4963117",
-                            "status": "Healthy"
+                            "latest_block_height": "4971014",
+                            "status": "Down"
                         }
                     ]
                 }
@@ -744,14 +744,14 @@
                             "namada_version": "201.0.6",
                             "service": "rpc",
                             "url": "https://rpc.testnet.namada.net",
-                            "latest_block_height": "3989317",
+                            "latest_block_height": "3996324",
                             "status": "Healthy"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer.testnet.namada.net",
-                            "latest_block_height": "3989317",
+                            "latest_block_height": "3996324",
                             "status": "Healthy"
                         },
                         {
@@ -827,7 +827,7 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc.namada-housefire.citizenweb3.com",
-                            "latest_block_height": "3989323",
+                            "latest_block_height": "3996330",
                             "status": "Healthy"
                         },
                         {
@@ -936,14 +936,14 @@
                             "namada_version": "201.0.6",
                             "service": "rpc",
                             "url": "https://housefire.rpc.papadritta.com",
-                            "latest_block_height": "3989345",
+                            "latest_block_height": "3996352",
                             "status": "Healthy"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://housefire.indexer.papadritta.com",
-                            "latest_block_height": "3989345",
+                            "latest_block_height": "3996352",
                             "status": "Healthy"
                         },
                         {
